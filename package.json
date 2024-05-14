@@ -70,8 +70,8 @@
     "style-loader": "^1.2.1",
     "uuid": "^8.3.0",
     "walk-sync": "^1.1.4",
-    "webpack": "^4.44.0",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
   },
   "devDependencies": {
     "ajv": "^6.11.0",
